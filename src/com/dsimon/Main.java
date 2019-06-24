@@ -3,6 +3,7 @@ package com.dsimon;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        SquareStar.printSquareStar(5);
+        SquareStar.printSquareStar(8);
     }
 }
